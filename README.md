@@ -1,4 +1,4 @@
-<a href="#link">𝒌𝒍𝒊𝒏𝒉𝒉 𐔌՞. .՞𐦯 𝒓𝒊𝒏</a>
+<a color="#4a90e2">𝒌𝒍𝒊𝒏𝒉𝒉 𐔌՞. .՞𐦯 𝒓𝒊𝒏</a>
 
 
 <img src="540cc06c34cd08adbda5110f64c579b9.jpg" width="100%">
