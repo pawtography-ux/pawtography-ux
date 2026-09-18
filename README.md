@@ -23,8 +23,6 @@
 
 ᴛʜɪꜱ ɪꜱ $\texttt{\color{#4A90E2}ᴍʏ ꜱᴇᴄᴏɴᴅᴀʀʏ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ}$,ᴀɴᴅ ᴘʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴀꜱᴋ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴀɪɴ ᴀᴄᴄᴏᴜɴᴛ.
 
-<img
-
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/aac16f37ab8a23facfa0753e033931b6.jpg)
 
 
