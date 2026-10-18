@@ -1,5 +1,6 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
-⠀⠀⠀⠀⠀⠀⠀⠀𝓵𝓸𝓿𝓮 𝓪𝓷𝓭 𝓫𝓵𝓸𝓸𝓭
+⠀⠀⠀⠀⠀⠀⠀⠀$\color{#8EC28B}\text{maybe when we ready }$
+⠀⠀⠀⠀⠀⠀$\color{#0A889D}\text{we’ll meet again.}$
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
