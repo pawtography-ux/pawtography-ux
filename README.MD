@@ -1,5 +1,6 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
-⠀⠀⠀⠀⠀⠀⠀<font color="blue">𝒌𝒍𝒊𝒏𝒉𝒉 𐔌՞. .՞𐦯 𝒓𝒊𝒏</font>
+⠀⠀⠀⠀⠀⠀⠀$\text{\color{#8EC28B}maybe when we’re ready}$
+
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
