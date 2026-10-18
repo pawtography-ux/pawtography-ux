@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
-⠀⠀⠀⠀⠀⠀⠀$\text{\color{#8EC28B}maybe when we’re ready}$
+⠀⠀⠀⠀⠀⠀⠀<span style="textt color: #8EC28B;">maybe when we ready</span>}$
 
 
 
