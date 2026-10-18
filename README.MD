@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
-⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀s\texttt{\color{#306FE5}why am i freezing all of a sudden?}$
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝓴𝓵𝓲𝓷𝓱𝓻𝓲𝓷
