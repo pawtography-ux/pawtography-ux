@@ -1,6 +1,9 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
 <p align="center">
-  <img src="https://img.shields.io/badge/lover-1%2C247%2C892-C5DDBB?style=flat-square&labelColor=E3EBDD" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/lover-1%2C247%2C892-E2EBDD?style=flat-square&labelColor=F2F5EF&color=E2EBDD" />
+  <img src="https://img.shields.io/badge/mountain-100-E2EBDD?style=flat-square&labelColor=F2F5EF&color=E2EBDD" />
+</p>
 
   ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
