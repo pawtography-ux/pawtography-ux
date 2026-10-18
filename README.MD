@@ -1,4 +1,7 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝓵𝓸𝓿𝓮 𝓪𝓷𝓭 𝓫𝓵𝓸𝓸𝓭
+<img 
+   src="IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png="100%">⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀𝓵𝓸𝓿𝓮 𝓪𝓷𝓭 𝓫𝓵𝓸𝓸𝓭
 
 <p align="center">
   <img src="https://img.shields.io/badge/lover-1%2C247%2C892-a8d5a2?style=flat-square&labelColor=dce8d8" />
