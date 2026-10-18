@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/mountain-100-a8d5a2?style=flat-square&labelColor=dce8d8" />
 </p>
 
-<img 
-   src="bb95d7abadaf93c516f85d594ed1c3c3-removebg-preview__fliter--warm-sea__channel--green__mode--normal.png" width="100%">
-
+![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_8ee2d36ff139e9b053be87f0efa75113-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝓴𝓵𝓲𝓷𝓱𝓻𝓲𝓷
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_183249__fliter--teal-lightgreen__channel--green__mode--lighten.png)
