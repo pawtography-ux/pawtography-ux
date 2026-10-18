@@ -1,4 +1,4 @@
-
+![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_160437__fliter--spring-grass__channel--green__mode--lighten.png)
 ⠀⠀⠀⠀⠀⠀⠀⠀𝓵𝓸𝓿𝓮 𝓪𝓷𝓭 𝓫𝓵𝓸𝓸𝓭
 
 <p align="center">
