@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/lover-1%2C247%2C892-C5DDBB?style=flat-square&labelColor=E3EBDD" />
 
-  <img src="https://img.shields.io/badge/mountain-100-C5DDBB?style=flat-square&labelColor=E3EBDD" />
-</p>
+  ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
+
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/68cf6f90c9281a325da499df1347f931-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝓴𝓵𝓲𝓷𝓱𝓻𝓲𝓷
