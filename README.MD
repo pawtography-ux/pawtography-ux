@@ -13,4 +13,3 @@
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_183249__fliter--teal-lightgreen__channel--green__mode--lighten.png)
 
-s\texttt{\color{#306FE5}maybe when we ready?}
