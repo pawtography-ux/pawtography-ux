@@ -12,3 +12,5 @@
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/8ee2d36ff139e9b053be87f0efa75113-removebg-preview__fliter--spring-grass__channel--all__mode--lighten.png)
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_183249__fliter--teal-lightgreen__channel--green__mode--lighten.png)
+
+s\texttt{\color{#306FE5}maybe when we ready?}
