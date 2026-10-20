@@ -12,3 +12,5 @@
 
 ![image](https://raw.githubusercontent.com/pawtography-ux/pawtography-ux/main/IMG_20261018_183249__fliter--teal-lightgreen__channel--green__mode--lighten.png)
 
+${\textsf{\color{#F1F4AA} they}}$
+
